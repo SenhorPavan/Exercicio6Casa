@@ -9,6 +9,6 @@ package maior.numero;
  *
  * @author SESI_SENAI
  */
-public class NumeroDecresente {
+public class MediaAluno {
     
 }

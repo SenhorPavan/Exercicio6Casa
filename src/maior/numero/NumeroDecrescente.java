@@ -1,14 +1,22 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package maior.numero;
 
-/**
- *
- * @author SESI_SENAI
- */
 public class NumeroDecrescente {
+
+    public NumeroDecrescente(int num) {
+
+        this.num = num;
+
+    }
+
+    int num;
+    int i;
     
+    public void NumeroDecrescente() {
+
+        for (i = 0; i <= num; num--) {
+
+            System.out.println(num);
+
+        }
+    }
 }
