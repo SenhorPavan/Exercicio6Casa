@@ -20,7 +20,7 @@ public class MaiorNumero {
         if(num1>num2){
             System.out.println("O numero maior é " + num1);
         }else{
-            System.out.println("O nuemro maior é " + num2);
+            System.out.println("O numero maior é " + num2);
         }
         
     }
