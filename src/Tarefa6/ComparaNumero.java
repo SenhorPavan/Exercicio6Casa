@@ -1,5 +1,5 @@
 
-package Terefa6;
+package Tarefa6;
 
 public class ComparaNumero {
 

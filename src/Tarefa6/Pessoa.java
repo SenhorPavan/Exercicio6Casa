@@ -1,4 +1,4 @@
-package Terefa6;
+package Tarefa6;
 
 import java.time.LocalDateTime;
 
