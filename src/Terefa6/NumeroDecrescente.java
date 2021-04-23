@@ -1,4 +1,4 @@
-package maior.numero;
+package Terefa6;
 
 public class NumeroDecrescente {
 
